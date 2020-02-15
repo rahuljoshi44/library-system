@@ -25,7 +25,12 @@ All the functions you'd expect a library system to do!
   <img src="demo/return.png">
 </p>
 
-### 4. View Metrics
+### 4. Delete Books
+<p align="center">
+  <img src="demo/delete.png">
+</p>
+
+### 5. View Metrics
 <p align="center">
   <img src="demo/metrics.png">
 </p>
